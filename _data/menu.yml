@@ -23,12 +23,10 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: HackTheBox-archive.html
-    post_list:
       category: OSCP
       show_more: true
       show_more_text: See more posts...
       show_more_url: OSCP-archive.html
-    post_list:
       category: Reversing
       show_more: true
       show_more_text: See more posts...
