@@ -18,11 +18,11 @@ entries:
       show_more_url: archive.html
 
   - title: posts by category
-    post_list:
-      category: HackTheBox
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: HackTheBox-archive.html
+    entries:
+      - title: HackTheBox
+        show_more: true
+        show_more_text: See more posts...
+        show_more_url: HackTheBox-archive.html
 
   - title: rss
     url: feed.xml
