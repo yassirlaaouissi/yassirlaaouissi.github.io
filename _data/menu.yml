@@ -2,18 +2,20 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: :~$ whoami
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
+      - title: A pleb with a blog.
+      - title: GitHub
+        url: https://github.com/yassirlaaouissi
+      - title: Blue Bird App
+        url: https://twitter.com/kladblokje_88
+      - title: "I make and break stuff. Sometimes it's cool, sometimes it's weird - but it's always noise on the internet, ENJOY!"
+      
   - title: all posts
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: See older...
       show_more_url: archive.html
 
   - title: posts by category
@@ -25,14 +27,3 @@ entries:
 
   - title: rss
     url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
