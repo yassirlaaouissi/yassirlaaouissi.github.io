@@ -23,6 +23,14 @@ entries:
         show_more: true
         show_more_text: See more posts...
         show_more_url: HackTheBox-archive.html
-
+      - title: OSCP
+        show_more: true
+        show_more_text: See more posts...
+        show_more_url: OSCP-archive.html      
+      - title: Reversing
+        show_more: true
+        show_more_text: See more posts...
+        show_more_url: Reversing-archive.html
+        
   - title: rss
     url: feed.xml
