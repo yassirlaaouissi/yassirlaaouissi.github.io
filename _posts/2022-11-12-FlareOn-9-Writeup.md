@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FlareOn 9 - Writeup"
-category: FlareOn
+category: Reversing
 ---
 
 Hi everyone, has been a while since I made a blogpost. Decided I wanted to compete in Flare-on 9 CTF.  Last years people got a bad ass price for reversing every challenge: [https://www.mandiant.com/resources/blog/flare-on-8-challenge-solutions](https://www.mandiant.com/resources/blog/flare-on-8-challenge-solutions)
