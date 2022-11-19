@@ -4,7 +4,7 @@ email: yassirlaaouissi1@gmail.com # email of site's author
 url: https://yassirlaaouissi.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Bing Bing, this blog is cool
+  Bing Bong, this blog is cool
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
