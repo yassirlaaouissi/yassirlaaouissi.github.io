@@ -21,7 +21,7 @@ body[a="dark"] { @include dark-appearance; }
 // see: https://stackoverflow.com/a/61265706
 html, body { background: #ebe2e2; }
 
-html { height: 100%; }
+html { height: 100%; filter: invert(1); }
 
 body {
   color: black;
