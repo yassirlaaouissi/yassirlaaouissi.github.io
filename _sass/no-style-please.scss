@@ -23,6 +23,7 @@ html, body { background: #ebe2e2; }
 
 html { height: 100%; filter: invert(1); }
 
+
 body {
   color: black;
   font-family: monospace;
@@ -91,4 +92,5 @@ img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
+  filter: invert(1);
 }
