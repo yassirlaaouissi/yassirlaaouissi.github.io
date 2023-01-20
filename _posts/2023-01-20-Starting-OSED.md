@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting OSED"
-category: Reversing, Exploit Developement, OSED
+category: OSED
 ---
 
 Hello again,
