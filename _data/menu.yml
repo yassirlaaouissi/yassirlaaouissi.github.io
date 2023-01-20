@@ -25,6 +25,8 @@ entries:
         url: OSCP-archive.html      
       - title: Reversing
         url: Reversing-archive.html
+      - title: OSED
+        url: OSED-archive.html
         
   - title: rss
     url: feed.xml
