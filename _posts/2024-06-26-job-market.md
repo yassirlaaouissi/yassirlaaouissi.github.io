@@ -6,7 +6,7 @@ category: Career
 
 Hi everyone,
 
-I has been a while since my last blog. My life has changed a bunch over the years/months.
+It has been a while since my last blog. My life has changed a bunch over the years/months.
 I'd like to dedicate this blog to people navigating their way through the minefield/dumpsterfire that we know as "the cybersecurity job market". As an individual who has chosen to go into cybersecurity about 4/5 years ago, I have made some observations about the paths that can be taken to form a full-fletched career in this industry. As you will read through this blog you will find a compilation of challenges that you will probably face when you decide to either make the switch to, or try to develop further in this industry.
 
 Before I do that a couple of disclaimers apply:
