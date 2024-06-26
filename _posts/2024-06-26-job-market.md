@@ -41,7 +41,7 @@ Browsing the web once more I assembled my renewed resume, found a semi-governmen
 
 Right of the bat I experienced that the topics during the interview where not at all applicable to the state the organization was in. For example; I was interrogated about C2 infra mapping while the majority of the internal network was not covered by our security monitoring solutions, detection was not detecting the most basic of attacks and the technical knowledge/drive to learn of the colleagues was subpar.
 
-For about 6 months I took upon myself and 1 colleague I could fine sollace with to do the following;
+For about 6 months I took upon myself and 1 colleague I could find sollace with to do the following;
 1. Fix obvious false positives/true negatives in detection and develop more accurate detection.
 2. Fight with network admins to get visibility across crucial parts of the internal network.
 3. Educate and motivate colleagues on how to do their job.
