@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Navigating the Cybersecurity Job Market: Challenges and (Potential) Solutions"
-category: Career
+category: Career, Opinion
 ---
 
 Hi everyone,
