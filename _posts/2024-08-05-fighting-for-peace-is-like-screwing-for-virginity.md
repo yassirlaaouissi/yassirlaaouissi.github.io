@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Fighting for peace is like screwing for virginity"
+category: Opinion
+---
+
 # Fighting for peace is like screwing for virginity
 
 Hello strangers, friends, and outer-worldly creatures, 
