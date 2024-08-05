@@ -62,7 +62,7 @@ To put that into an example;
 - Soviet union fell impart due to western (namely US) influence
 - Mostly Russia and Belarus remained salty at the west
 - Commonwealth of Independent States became a free-state for cybercrime activity to bother the west
-- Both the west and the east dance and everlasting tango with each other over the years about political and economic meddling using digital means (DNC attack, TriangeDB on Kaspersky, sanctions in the west against Kaspersky, Social media influence campaigns on twitter, espionage at OPCW etc etc etc)
+- Both the west and the east dance an everlasting tango with each other over the years about political and economic meddling using digital means (DNC attack, TriangeDB on Kaspersky, sanctions in the west against Kaspersky, Social media influence campaigns on twitter, espionage at OPCW etc etc etc)
 
 And like cybercrime this is an everlasting cycle that involved parties are to scared to break because of the potential consequences. Welcome to modern society :)
 
