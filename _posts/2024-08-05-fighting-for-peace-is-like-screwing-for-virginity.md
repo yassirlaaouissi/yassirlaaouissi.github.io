@@ -37,7 +37,8 @@ Namely;
 
 Its easy to compare cybercrime fighting strategies to something from the classic crime circuit like "the war on drugs". Its a downward spiral, race to the bottom, and at best a good business model for private security vendors (moreover later). Or to put it in the words of George Carlin;
 > Fighting for peace is like screwing for virginity
-Would that be an amazing title of a blog xD
+
+Wouldnt that be an amazing title of a blog xD
 
 In the Netherlands organizations like, but not limited to, the Team High Tech Crime of the Dutch National Police are responsible for "fighting" cybercrime. This organization is a popular counter force for cybercrime on an international scene. Due to the dutch infrastructure being a major international vector, this organization has been forced to become such a large force. Though sadly the described patterns are all the more prevalent. 
 As a result of failing strategic input, it has become an endless PR machine. Often when one paints this picture of reality, one is told to be a cybercrime promoter if you challenge the authority of such government bodies with one-liners like;
